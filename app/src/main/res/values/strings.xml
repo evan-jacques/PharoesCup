@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Pharaohs Cup</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="rules">
+        <item>Face</item>
+        <item>A.B. Dare</item>
+        <item>Headphones</item>
+        <item>Shopping Spree</item>
+        <item>Geck/Lava</item>
+        <item>Fruit Pass</item>
+        <item>Shot Roulette</item>
+        <item>Suck and Blow</item>
+        <item>Straight Arm Chug</item>
+        <item>Never Have I Ever</item>
+        <item>Blackout Glasses</item>
+        <item>Dino Hands</item>
+        <item>Pharaohs Cup</item>
+        <item>Categories</item>
+        <item>Body Shot</item>
+        <item>Thumb Master</item>
+        <item>Viking Master</item>
+        <item>Truth or Dare</item>
+        <item>Cellphone Submission</item>
+        <item>Make a Rule</item>
+    </string-array>
+    <style name="rule_description">
+    </style>
+    <string name="title_activity_game">Pharaohs Cup</string>
+</resources>
